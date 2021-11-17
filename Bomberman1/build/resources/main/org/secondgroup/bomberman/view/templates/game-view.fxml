@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:id="root"
+            fx:controller="org.secondgroup.bomberman.view.controllers.GameController">
+    <AnchorPane fx:id="container" style="-fx-background-color: white">
+    </AnchorPane>
+</AnchorPane>
